@@ -4,9 +4,9 @@
 
 import { onMount } from 'svelte';
 
-let lightbox = "";
-let imagenActiva = "";
-let imagenes = "";
+let lightbox ;
+let imagenActiva ;
+let imagenes ;
 
 onMount(() => {
 		
